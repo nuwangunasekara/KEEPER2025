@@ -18,4 +18,4 @@ In this tutorial, our goal is to help attendees understand how to apply various 
 ## Notebooks
 - [Introduction](https://colab.research.google.com/drive/1DzBwvYioFGOKcHgbNH_lJGex6-tYpzVh)
 - [Supervised Learning](https://colab.research.google.com/drive/1RecOo8vpE_S_tli9-feA7ko9Ppwt5mNd)
-- [Introduction Anomaly detection](https://colab.research.google.com/drive/1aK7ypUscQQQFitIs9ArApwX8zFv2fiUv)
+- [Introduction to Anomaly detection](https://colab.research.google.com/drive/1aK7ypUscQQQFitIs9ArApwX8zFv2fiUv)
