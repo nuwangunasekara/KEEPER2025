@@ -19,3 +19,5 @@ In this tutorial, our goal is to help attendees understand how to apply various 
 - [Introduction](https://colab.research.google.com/drive/1DzBwvYioFGOKcHgbNH_lJGex6-tYpzVh) (01_KEEPER2025_introduction.ipynb)
 - [Supervised Learning](https://colab.research.google.com/drive/1RecOo8vpE_S_tli9-feA7ko9Ppwt5mNd) (02_KEEPER2025_supervised.ipynb)
 - [Introduction to Anomaly Detection](https://colab.research.google.com/drive/1aK7ypUscQQQFitIs9ArApwX8zFv2fiUv) (03_KEEPER2025_anomaly_detection.ipynb)
+
+## Slides
